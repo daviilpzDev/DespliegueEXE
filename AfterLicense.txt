@@ -1,0 +1,24 @@
+INSTALACIÓN COMPLETADA
+
+Gracias por instalar [Calculadora].
+
+ACUERDO DE LICENCIA DE SOFTWARE
+
+Usted ha aceptado los términos y condiciones del Acuerdo de Licencia de Software proporcionado por [SevillaMedac]. A continuación, se incluye un resumen de las principales disposiciones:
+
+1. **Concesión de Licencia:** Usted tiene una licencia no exclusiva, intransferible y limitada para utilizar el software de acuerdo con los términos del acuerdo.
+
+2. **Restricciones de Uso:** Se prohíbe modificar, distribuir o utilizar el software de manera que viole leyes aplicables o derechos de terceros.
+
+3. **Propiedad Intelectual:** El software y su documentación asociada son propiedad exclusiva de [SevillaMedac] y están protegidos por leyes de propiedad intelectual.
+
+4. **Actualizaciones y Soporte:** [SevillaMedac] puede proporcionar actualizaciones y soporte técnico según su discreción.
+
+Para obtener detalles completos, consulte el Acuerdo de Licencia de Software.
+
+Gracias por elegir [Calculadora]. Si tiene alguna pregunta o necesita asistencia, comuníquese con nuestro soporte técnico en [dirección de correo electrónico] o visite nuestro sitio web en [URL].
+
+¡Disfrute de su experiencia con [Calculadora]!
+
+[SevillaMedac]
+[17/01/24]

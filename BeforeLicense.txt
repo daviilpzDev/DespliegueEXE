@@ -1,0 +1,34 @@
+ANTES DE INSTALAR EL SOFTWARE, POR FAVOR, LEA CUIDADOSAMENTE LOS SIGUIENTES TÉRMINOS Y CONDICIONES DEL ACUERDO DE LICENCIA DE SOFTWARE. AL INSTALAR EL SOFTWARE, USTED ACEPTA ESTAR SUJETO A LOS TÉRMINOS DE ESTE ACUERDO. SI NO ESTÁ DE ACUERDO CON ESTOS TÉRMINOS, NO INSTALE EL SOFTWARE.
+
+ACUERDO DE LICENCIA DE SOFTWARE
+
+Este Acuerdo de Licencia de Software ("Acuerdo") se establece entre el usuario final ("Usuario") y [SevillaMedac] ("Licenciante"). Al instalar, copiar o utilizar el software proporcionado por Licenciante ("Software"), el Usuario acepta estar sujeto a los términos y condiciones de este Acuerdo.
+
+1. CONCESIÓN DE LICENCIA
+   Licenciante otorga al Usuario una licencia no exclusiva, intransferible y limitada para usar el Software de acuerdo con los términos establecidos en este Acuerdo.
+
+2. RESTRICCIONES DE USO
+   El Usuario se compromete a no:
+   a. Modificar, adaptar, traducir, realizar ingeniería inversa, descompilar o desensamblar el Software.
+   b. Distribuir, sublicenciar, arrendar, prestar o transferir el Software a terceros.
+   c. Utilizar el Software de manera que viole leyes aplicables o derechos de terceros.
+
+3. PROPIEDAD INTELECTUAL
+   El Usuario reconoce que el Software y cualquier documentación asociada son propiedad exclusiva de Licenciante y están protegidos por leyes de propiedad intelectual.
+
+4. ACTUALIZACIONES Y SOPORTE
+   Licenciante puede proporcionar actualizaciones y soporte técnico para el Software a su discreción. Este Acuerdo se aplicará a cualquier actualización proporcionada por Licenciante.
+
+5. TERMINACIÓN
+   Este Acuerdo se rescindirá automáticamente si el Usuario incumple cualquiera de sus términos. Al término, el Usuario deberá dejar de utilizar el Software y destruir todas las copias.
+
+6. LIMITACIÓN DE RESPONSABILIDAD
+   En ningún caso Licenciante será responsable por daños directos, indirectos, incidentales, especiales o consecuentes derivados del uso o la imposibilidad de uso del Software.
+
+7. LEY APLICABLE
+   Este Acuerdo se regirá e interpretará de acuerdo con las leyes del [País/Estado] sin tener en cuenta sus conflictos de principios legales.
+
+AL HACER CLIC EN "ACEPTAR" O AL INSTALAR EL SOFTWARE, EL USUARIO MANIFIESTA SU COMPRENSIÓN Y ACEPTACIÓN DE LOS TÉRMINOS Y CONDICIONES DE ESTE ACUERDO.
+
+[SevillaMedac]
+[17/01/24]
